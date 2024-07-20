@@ -1,0 +1,81 @@
+*{
+    margin:0;
+}
+img {
+    max-width: 100%;
+}
+
+.blueBG {
+    background-color: #195774;
+}
+.myheader {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 27px;
+    padding-bottom: 24px;
+}
+.puppyBanner img {
+    width: 100%;
+    height:auto;
+    margin-bottom: 84px;
+}
+.puppiesSection {
+    display: flex;
+    
+}
+.puppy1,.puppy2,.MissingPuppies{
+    width:33.33%;
+}
+.puppy1 img,.puppy2 img,.MissingPuppies h4{
+    width:100%;
+}
+.more_puppies{
+    display:flex;
+    max-width:100%;
+    height: auto;
+}
+.morePuppy1,.morePuppy2{
+    width: 50%;
+}
+.morePuppy1 img,.morePuppy2 img{
+    width:100%;
+}
+.fixed-container{
+    width:960px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.header-div{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.MissingPuppies{
+    background-color: #f04d65;
+    margin-left:1%;
+    margin-right:1%;
+}
+.text-wrapper{
+    font-size: 45px;
+    text-align: center;
+    padding-top: 86px;
+    padding-bottom: 45px;
+    padding-right: 50px;
+    padding-left:30px;
+}
+.morePuppy1{
+    margin-right:2%;
+    margin-right:2%;
+}
+.Myfooter{
+    color: white;
+    text-align: center;
+    margin-top: 75px;
+    padding-top: 100px;
+    padding-bottom: 120px;
+    font-size: 33px;
+}
+
